@@ -1,0 +1,24 @@
+{
+  "files": {
+    "main.css": "/onethportfolio/static/css/main.7e499588.css",
+    "main.js": "/onethportfolio/static/js/main.8caaaaf8.js",
+    "static/js/787.0c3f432a.chunk.js": "/onethportfolio/static/js/787.0c3f432a.chunk.js",
+    "static/media/profile.jpg": "/onethportfolio/static/media/profile.2fd294b903f56429c6db.jpg",
+    "static/media/Work4.png": "/onethportfolio/static/media/Work4.23269e41032961026e7e.png",
+    "static/media/Work2.png": "/onethportfolio/static/media/Work2.11a36905e84c39361e4b.png",
+    "static/media/about.jpg": "/onethportfolio/static/media/about.c50539ccd15544c0850d.jpg",
+    "static/media/Work6.png": "/onethportfolio/static/media/Work6.b60045b398525eb99391.png",
+    "static/media/Work5.png": "/onethportfolio/static/media/Work5.e6d72ce2f97ce05405f9.png",
+    "static/media/Oneth-CV.pdf": "/onethportfolio/static/media/Oneth-CV.1badb5d505667d7ef912.pdf",
+    "static/media/Work1.png": "/onethportfolio/static/media/Work1.9f41b832e6ce568dc7c3.png",
+    "static/media/Work3.png": "/onethportfolio/static/media/Work3.fe4550f8165cbd575481.png",
+    "index.html": "/onethportfolio/index.html",
+    "main.7e499588.css.map": "/onethportfolio/static/css/main.7e499588.css.map",
+    "main.8caaaaf8.js.map": "/onethportfolio/static/js/main.8caaaaf8.js.map",
+    "787.0c3f432a.chunk.js.map": "/onethportfolio/static/js/787.0c3f432a.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.7e499588.css",
+    "static/js/main.8caaaaf8.js"
+  ]
+}
